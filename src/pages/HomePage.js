@@ -4,7 +4,7 @@ import Carousel from '../components/Carousel';
 function HomePage(props) {
     return (
         <div>
-            <FrontSection title={props.title} subTitle={props.subTitle} text={props.text} />
+            <FrontSection  title={props.title} subTitle={props.subTitle} text={props.text} />
             <Carousel></Carousel>
         </div>
 
