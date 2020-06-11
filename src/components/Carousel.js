@@ -14,7 +14,7 @@ class Carousel extends React.Component {
                 {
                     id: 0,
                     title: 'GitHub Profile',
-                    subTitle: 'the cookbook for developers',
+                    subTitle: 'See my Projects!',
                     imgSrc: gitsrc,
                     link: 'https://github.com/hasan-umanitoba',
                     selected: false
