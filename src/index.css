@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.styl-card{
+  margin:  20px;
+}
+
+.styl-card-image{
+  border-radius:  10px;
+  width: 300px;
+  height: 480px;
+  box-shadow: 0px 0px 3px 1px #ccc;
+}
+
+.styl-card-info{
+    margin-top: 10px;
+    min-height: 100px;
+}
+
+.styl-card-title{
+    font-size: 24px;
+    margin: 0px;
+}
+
+.styl-card-subtitle{
+  font-size: 16px;
+  margin: 0px;
+}
+
+
+.success-msg {
+  color: #57A773;
+  padding: 10px 15px;
+}
+
+
+.err-msg {
+  color: #EE6352;
+  padding: 10px 15px;
+}
+.abc {
+  background-image: url('./assets/images/lightblue.jpg');
+}
