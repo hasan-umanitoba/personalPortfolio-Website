@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personalPortfolio-Website/static/css/main.eab60601.chunk.css",
+    "main.js": "/personalPortfolio-Website/static/js/main.9b023124.chunk.js",
+    "main.js.map": "/personalPortfolio-Website/static/js/main.9b023124.chunk.js.map",
+    "runtime-main.js": "/personalPortfolio-Website/static/js/runtime-main.8d9b88b6.js",
+    "runtime-main.js.map": "/personalPortfolio-Website/static/js/runtime-main.8d9b88b6.js.map",
+    "static/css/2.09d1976d.chunk.css": "/personalPortfolio-Website/static/css/2.09d1976d.chunk.css",
+    "static/js/2.fb9a1508.chunk.js": "/personalPortfolio-Website/static/js/2.fb9a1508.chunk.js",
+    "static/js/2.fb9a1508.chunk.js.map": "/personalPortfolio-Website/static/js/2.fb9a1508.chunk.js.map",
+    "index.html": "/personalPortfolio-Website/index.html",
+    "precache-manifest.fe146b6d806f83aa2de937976be1011d.js": "/personalPortfolio-Website/precache-manifest.fe146b6d806f83aa2de937976be1011d.js",
+    "service-worker.js": "/personalPortfolio-Website/service-worker.js",
+    "static/css/2.09d1976d.chunk.css.map": "/personalPortfolio-Website/static/css/2.09d1976d.chunk.css.map",
+    "static/css/main.eab60601.chunk.css.map": "/personalPortfolio-Website/static/css/main.eab60601.chunk.css.map",
+    "static/js/2.fb9a1508.chunk.js.LICENSE.txt": "/personalPortfolio-Website/static/js/2.fb9a1508.chunk.js.LICENSE.txt",
+    "static/media/githubimage.jpg": "/personalPortfolio-Website/static/media/githubimage.900abed3.jpg",
+    "static/media/insta.jpg": "/personalPortfolio-Website/static/media/insta.1b2ee137.jpg",
+    "static/media/index.css": "/personalPortfolio-Website/static/media/lightblue.0c9ada9b.jpg",
+    "static/media/linkedin.jpg": "/personalPortfolio-Website/static/media/linkedin.fa0fc338.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9b88b6.js",
+    "static/css/2.09d1976d.chunk.css",
+    "static/js/2.fb9a1508.chunk.js",
+    "static/css/main.eab60601.chunk.css",
+    "static/js/main.9b023124.chunk.js"
+  ]
+}
